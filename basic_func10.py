@@ -3,6 +3,6 @@
 # Create function arguments a.
 
 # Return the negative value of a.
-def main():
-    return 0
-    print(main(-a))
+def main(a):
+    return -a
+
