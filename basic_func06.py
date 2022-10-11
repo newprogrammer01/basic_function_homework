@@ -2,7 +2,7 @@
 
 # Return the value str type.
 def main():
-    return salom
+    return one
 
 
 
