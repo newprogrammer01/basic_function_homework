@@ -4,7 +4,6 @@
 
 # Return the value a.
 def main():
-    value=a
     return a
-    
+
     
