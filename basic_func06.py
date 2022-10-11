@@ -3,6 +3,7 @@
 # Return the value str type.
 
 def main():
-    return 0
-    print(main(str))
+    value=str
+    return value
+    
     
