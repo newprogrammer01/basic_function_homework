@@ -2,8 +2,8 @@
 
 # Return the value str type.
 def main():
-
-        return Jasurbek
+    str
+print("Hello")
 
 
 
