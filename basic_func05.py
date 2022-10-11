@@ -3,6 +3,6 @@
 # Return the value float type.
 
 def main():
-    return 0
-    print(main(float))
+    value=float
+    return value
     
