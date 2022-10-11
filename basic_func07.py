@@ -3,7 +3,7 @@
 # Create function arguments a.
 
 # Return the value a.
-def main():
+def main(a):
     return a
 
     
